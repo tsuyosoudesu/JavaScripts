@@ -13,7 +13,7 @@ window.addEventListener('DOMContentLoaded', () => {
     if (hasNetwork){
         presentDrinks(URL);
     }else{
-        presentDrinks(LOCAL_URL);
+        presentDrinks(LOCAL_URL + 'c.json');
     }
     
 });
