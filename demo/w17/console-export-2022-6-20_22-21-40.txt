@@ -1,0 +1,3 @@
+Live reload enabled. index.html:40:13
+Array(207) [ {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, … ]
+app.js:11:28
