@@ -1,0 +1,8 @@
+07070d0	tsuyosoudesu	Wed Jun 22 01:43:20 2022 +0800	last Log
+9ab779c	tsuyosoudesu	Thu Jun 16 23:22:42 2022 +0800	 w17-p3: search items that is available in searchItems array
+2d627ac	tsuyosoudesu	Wed Jun 15 22:09:21 2022 +0800	 w17-p2: fetch a local json data with local images
+04ecb2f	tsuyosoudesu	Wed Jun 15 20:23:03 2022 +0800	w17-p1: fetch local json data when hasNetwork=false
+ccc09a6	tsuyosoudesu	Wed Jun 8 21:33:10 2022 +0800	### w16-p2: finish addItems for Grocery demo
+e256971	tsuyosoudesu	Wed Jun 8 19:27:00 2022 +0800	### w16-p1: finish displaySingleDrink_xx.js
+457cb2a	tsuyosoudesu	Wed Jun 1 21:44:18 2022 +0800	w15-p3: Get drink info based on data-id, and show the data
+5d681cc	tsuyosoudesu	Wed Jun 1 20:35:14 2022 +0800	w15-p2: Get data-id of a drink, save to local storage
